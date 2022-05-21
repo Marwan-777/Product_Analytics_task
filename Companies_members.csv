@@ -1,0 +1,4 @@
+member_id,company_id,name,email,is_owner
+1,3,Mark,mark@google.com,TRUE
+2,1,Sam,sam@amazon.com,FALSE
+3,1,David,dav@amazon.com,TRUE
