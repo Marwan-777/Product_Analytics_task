@@ -1,4 +1,3 @@
-<code>
 # Product Analytics Task
 
 ## Overview
@@ -100,7 +99,3 @@ This repository is provided under the MIT License. See `LICENSE` for details.
 
 ## Contact
 For questions or clarifications, please reach out to the Instabug analytics team or file an issue in this repository.
-</code>
-
-<requirements>
-</requirements>
